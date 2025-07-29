@@ -189,7 +189,7 @@ ORDEN DE INSTALACIÓN:
    - Instalar y Activar
 
 5️⃣ WP Super Cache
-   - Buscar: "WP Super Cache"
+   - Buscar: "
    - Instalar y Activar
 ```
 
@@ -218,55 +218,80 @@ CONFIGURACIÓN DE TIENDA:
 📍 Ubicación: Productos > Categorías
 ⏱️ Tiempo estimado: 10 minutos
 
-CATEGORÍAS DEL MENÚ:
-✅ Entrada/Aperitivos
-✅ Sopas
-✅ Platos de Fondo
-✅ Chifa Especiales
-✅ Pollo
-✅ Cerdo
-✅ Mariscos
-✅ Vegetarianos
-✅ Bebidas
-✅ Postres
+CATEGORÍAS DEL MENÚ CHIFA CAMILA:
+✅ Sopas (Caldo de Gallina)
+✅ Arroz Chaufa
+✅ Chaufa Mixtos
+✅ Chaufa Especiales
+✅ Aeropuertos
+✅ Tallarín Saltado
+✅ Bebidas ----------------------------------------> falta añadir variaciones ----------------------------------->
 ```
 
 ### **3.4 Crear Productos de Ejemplo** ⏳
 ```bash
 📍 Ubicación: Productos > Añadir nuevo
-⏱️ Tiempo estimado: 30 minutos
+⏱️ Tiempo estimado: 45 minutos
 
-PRODUCTOS DE EJEMPLO:
+PRODUCTOS DEL MENÚ CHIFA CAMILA:
 
-🍜 PRODUCTO 1: Arroz Chaufa de Pollo
-   - Precio: S/ 18.00
-   - Categoría: Chifa Especiales
-   - Descripción: "Delicioso arroz frito con pollo y verduras"
-   - Estado: Publicado
+🍲 SOPAS:
+   - Caldo de Gallina - S/ 9.00
+   Descripción: "Tradicional caldo peruano, nutritivo y reconfortante"
+   Nota: "Todo sale con caldo de gallina"
 
-🍤 PRODUCTO 2: Tallarín Saltado de Mariscos
-   - Precio: S/ 25.00
-   - Categoría: Mariscos
-   - Descripción: "Tallarines saltados con mariscos frescos"
-   - Estado: Publicado
+🍜 ARROZ CHAUFA (SIMPLES):
+   - Arroz Chaufa de Pollo - S/ 9.00
+   - Arroz Chaufa de Chancho - S/ 9.00  
+   - Arroz Chaufa de Carne - S/ 9.00
+   Descripción: "Delicioso arroz frito al estilo chifa con [proteína]"
 
-🥟 PRODUCTO 3: Wantán Frito (6 unidades)
-   - Precio: S/ 12.00
-   - Categoría: Entrada/Aperitivos
-   - Descripción: "Deliciosos wantanes crujientes"
-   - Estado: Publicado
+🥘 CHAUFA MIXTOS:
+   - Chaufa Mixto Pollo y Carne - S/ 10.00
+   - Chaufa Mixto Pollo y Chancho - S/ 10.00
+   Descripción: "Arroz chaufa con combinación de dos carnes"
 
-🍲 PRODUCTO 4: Sopa Wantán
-   - Precio: S/ 15.00
-   - Categoría: Sopas
-   - Descripción: "Tradicional sopa china con wantanes"
-   - Estado: Publicado
+� CHAUFA ESPECIALES:
+   - Chaufa Especial (Pollo, Chancho y Carne) - S/ 12.00
+   - Chaufa con Lomo Saltado de Carne - S/ 12.00
+   - Chaufa con Lomo Saltado de Pollo - S/ 12.00
+   - Chaufa con Tallarín Saltado de Carne - S/ 12.00
+   - Chaufa con Tallarín Saltado de Pollo - S/ 12.00
+   - Chaufa Cubano (con plátano frito y huevo) - S/ 12.00
+   - Arroz Chaufa con Tortilla de Verduras - S/ 12.00
 
-🥤 PRODUCTO 5: Inca Kola 500ml
-   - Precio: S/ 4.50
-   - Categoría: Bebidas
-   - Descripción: "La bebida del Perú"
-   - Estado: Publicado
+✈️ AEROPUERTOS (SIMPLES):
+   - Aeropuerto de Carne - S/ 10.00
+   - Aeropuerto de Pollo - S/ 10.00
+   - Aeropuerto de Chancho - S/ 10.00
+   Descripción: "Combinación de arroz chaufa y tallarín saltado"
+
+✈️ AEROPUERTOS MIXTOS:
+   - Aeropuerto Mixto Pollo y Chancho - S/ 12.00
+   - Aeropuerto Mixto Pollo y Carne - S/ 12.00
+
+✈️ AEROPUERTOS ESPECIALES:
+   - Aeropuerto Especial (Pollo, Carne y Chancho) - S/ 14.00
+   - Aeropuerto con Tortilla - S/ 14.00
+   Descripción: "La especialidad de la casa con tres carnes"
+
+🍝 TALLARÍN SALTADO:
+   - Tallarín Saltado de Pollo - S/ 9.00
+   - Tallarín Saltado de Carne - S/ 9.00
+   Descripción: "Fideos saltados al wok con verduras y [proteína]"
+
+🥤 BEBIDAS:
+   - Limonada Frozen - S/ 6.00
+   - Gaseosa - S/ [precio por definir]
+   Descripción: "Bebidas refrescantes para acompañar tu comida"
+
+CONFIGURACIÓN PARA CADA PRODUCTO:
+✅ Añadir imagen del plato
+✅ Configurar como producto simple
+✅ Asignar a categoría correspondiente
+✅ Establecer estado: "En stock"
+✅ Permitir reseñas: Sí
+✅ Estado: Publicado
 ```
 
 ---
