@@ -270,7 +270,7 @@ COLUMNA 4: Información de Contacto
 
 ## 🛒 **FASE 3: Funcionalidad E-commerce**
 
-### **3.1 Instalación de Plugins Esenciales** ⏳
+### **3.1 Instalación de Plugins Esenciales** ⏳0
 ```bash
 📍 Ubicación: Plugins > Añadir nuevo
 ⏱️ Tiempo estimado: 15 minutos
