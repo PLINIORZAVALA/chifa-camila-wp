@@ -1,0 +1,541 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog filter Polish Translation\n"
+"POT-Creation-Date: 2023-12-12 16:59+0530\n"
+"PO-Revision-Date: 2023-12-12 16:59+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-premium.php:30 blog-filter-settings.php:1047
+msgid "Blog Filter Premium"
+msgstr "Filtr bloga Premium"
+
+#: blog-filter-premium.php:56
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: blog-filter-premium.php:90
+msgid "Blog Filters Settings"
+msgstr "Ustawienia filtrów bloga"
+
+#: blog-filter-settings.php:19
+msgid "Blog Filter Settings Page"
+msgstr "Strona ustawień filtra bloga"
+
+#: blog-filter-settings.php:26
+msgid "Template Settings"
+msgstr "Ustawienia szablonu"
+
+#: blog-filter-settings.php:31
+msgid "Template Right To Left "
+msgstr "Szablon od prawej do lewej "
+
+#: blog-filter-settings.php:42
+msgid "Blog Template"
+msgstr "Szablon bloga"
+
+#: blog-filter-settings.php:46
+msgid "Template 1"
+msgstr "Szablon 1"
+
+#: blog-filter-settings.php:47
+msgid "Template 2"
+msgstr "Szablon 2"
+
+#: blog-filter-settings.php:48
+msgid "Template 3"
+msgstr "Szablon 3"
+
+#: blog-filter-settings.php:54
+msgid "Column On Large Desktop"
+msgstr "Kolumna na dużym pulpicie"
+
+#: blog-filter-settings.php:58 blog-filter-settings.php:73
+#: blog-filter-settings.php:88 blog-filter-settings.php:102
+msgid "1 Column"
+msgstr "1 Kolumna"
+
+#: blog-filter-settings.php:59 blog-filter-settings.php:74
+#: blog-filter-settings.php:89 blog-filter-settings.php:103
+msgid "2 Column"
+msgstr "2 Kolumna"
+
+#: blog-filter-settings.php:60 blog-filter-settings.php:75
+#: blog-filter-settings.php:90 blog-filter-settings.php:104
+msgid "3 Column"
+msgstr "3 Kolumna"
+
+#: blog-filter-settings.php:61 blog-filter-settings.php:76
+#: blog-filter-settings.php:91 blog-filter-settings.php:105
+msgid "4 Column"
+msgstr "4 Kolumna"
+
+#: blog-filter-settings.php:62 blog-filter-settings.php:77
+#: blog-filter-settings.php:92
+msgid "6 Column"
+msgstr "6 Kolumna"
+
+#: blog-filter-settings.php:63 blog-filter-settings.php:78
+msgid "12 Column"
+msgstr "12 Kolumna"
+
+#: blog-filter-settings.php:69
+msgid "Column On Desktop"
+msgstr "Kolumna na pulpicie"
+
+#: blog-filter-settings.php:84
+msgid "Column On Tablet"
+msgstr "Kolumna na tablecie"
+
+#: blog-filter-settings.php:98
+msgid "Column On Phone"
+msgstr "Kolumna Na telefonie"
+
+#: blog-filter-settings.php:111
+msgid "Same Size Grid"
+msgstr "Siatka tego samego rozmiaru"
+
+#: blog-filter-settings.php:128
+msgid "Image Settings"
+msgstr "Ustawienia obrazu"
+
+#: blog-filter-settings.php:133
+msgid "Show Blog Images"
+msgstr "Pokaż obrazy z bloga"
+
+#: blog-filter-settings.php:144
+msgid "Link On Image"
+msgstr "Link na obrazie"
+
+#: blog-filter-settings.php:155
+msgid "Lightbox On Image"
+msgstr "Lightbox na obrazie"
+
+#: blog-filter-settings.php:166
+msgid "Image Hover Effect"
+msgstr "Efekt najechania obrazem"
+
+#: blog-filter-settings.php:170 blog-filter-settings.php:830
+#: blog-filter-settings.php:850
+msgid "None"
+msgstr "Żadne"
+
+#: blog-filter-settings.php:171
+msgid "Hover 1"
+msgstr "Najedź 1"
+
+#: blog-filter-settings.php:172
+msgid "Hover 2"
+msgstr "Najedź 2"
+
+#: blog-filter-settings.php:173
+msgid "Hover 3"
+msgstr "Najedź 3"
+
+#: blog-filter-settings.php:174
+msgid "Hover 4"
+msgstr "Najedź 4"
+
+#: blog-filter-settings.php:175
+msgid "Hover 5"
+msgstr "Najedź 5"
+
+#: blog-filter-settings.php:181
+msgid "Image Quality"
+msgstr "Jakość obrazu"
+
+#: blog-filter-settings.php:185
+msgid "Thumbnail"
+msgstr "Miniatura"
+
+#: blog-filter-settings.php:186
+msgid "Medium"
+msgstr "Średni"
+
+#: blog-filter-settings.php:187
+msgid "Large"
+msgstr "Duży"
+
+#: blog-filter-settings.php:188
+msgid "Full"
+msgstr "Pełny"
+
+#: blog-filter-settings.php:200
+msgid "Title Settings"
+msgstr "Ustawienia tytułu"
+
+#: blog-filter-settings.php:205
+msgid "Show Blog Title"
+msgstr "Pokaż tytuł bloga"
+
+#: blog-filter-settings.php:216
+msgid "Title Below The Image"
+msgstr "Tytuł pod obrazem"
+
+#: blog-filter-settings.php:227
+msgid "Link On Title"
+msgstr "Link do tytułu"
+
+#: blog-filter-settings.php:238
+msgid "Title Text Color"
+msgstr "Kolor tekstu tytułu"
+
+#: blog-filter-settings.php:246
+msgid "Title Font Size"
+msgstr "Rozmiar czcionki tytułu"
+
+#: blog-filter-settings.php:263
+msgid "Description Settings"
+msgstr "Ustawienia opisu"
+
+#: blog-filter-settings.php:268
+msgid "Show Blog Description"
+msgstr "Pokaż opis bloga"
+
+#: blog-filter-settings.php:279
+msgid "Description Text Color"
+msgstr "Kolor tekstu opisu"
+
+#: blog-filter-settings.php:287
+msgid "Description Box Color"
+msgstr "Kolor pola opisu"
+
+#: blog-filter-settings.php:295
+msgid "Description Font Size"
+msgstr "Rozmiar czcionki opisu"
+
+#: blog-filter-settings.php:306
+msgid "How Much Characters Show In Description"
+msgstr "Ile znaków pojawia się w opisie"
+
+#: blog-filter-settings.php:314
+msgid "Three Dots After Description"
+msgstr "Trzy kropki po opisie"
+
+#: blog-filter-settings.php:331
+msgid "Post Meta Settings"
+msgstr "Ustawienia meta postu"
+
+#: blog-filter-settings.php:336
+msgid "Show Post Date"
+msgstr "Pokaż datę wysłania"
+
+#: blog-filter-settings.php:347
+msgid "Date Below The Image"
+msgstr "Data pod obrazem"
+
+#: blog-filter-settings.php:358
+msgid "Show Post Author"
+msgstr "Pokaż autora wpisu"
+
+#: blog-filter-settings.php:369
+msgid "Author Below The Image"
+msgstr "Autor pod obrazkiem"
+
+#: blog-filter-settings.php:380
+msgid "Show Post Categories"
+msgstr "Pokaż kategorie postów"
+
+#: blog-filter-settings.php:391
+msgid "Show Post Tags"
+msgstr "Pokaż tagi postów"
+
+#: blog-filter-settings.php:402
+msgid "Show Comments Count in Template 3"
+msgstr "Pokaż liczbę komentarzy w szablonie 3"
+
+#: blog-filter-settings.php:419
+msgid "Link (URL) Settings"
+msgstr "Ustawienia łącza (URL)"
+
+#: blog-filter-settings.php:424
+msgid "Show Read More Link"
+msgstr "Pokaż łącze Czytaj więcej"
+
+#: blog-filter-settings.php:435
+msgid "Link Open In New Tab"
+msgstr "Link Otwórz w nowej karcie"
+
+#: blog-filter-settings.php:447
+msgid "Link On Date"
+msgstr "Połączenie w dniu"
+
+#: blog-filter-settings.php:458
+msgid "Link On Author"
+msgstr "Link do autora"
+
+#: blog-filter-settings.php:469
+msgid "Link On Category"
+msgstr "Link do kategorii"
+
+#: blog-filter-settings.php:480
+msgid "Link On Tags"
+msgstr "Link na tagach"
+
+#: blog-filter-settings.php:492
+msgid "Text For Read More Link"
+msgstr "Tekst dla łącza Czytaj więcej"
+
+#: blog-filter-settings.php:507
+msgid "Post Order Settings"
+msgstr "Ustawienia po zamówieniu"
+
+#: blog-filter-settings.php:512
+msgid "Post Order By"
+msgstr "Wysłanie zamówienia przez"
+
+#: blog-filter-settings.php:516 blog-filter-settings.php:673
+msgid "Date"
+msgstr "Data"
+
+#: blog-filter-settings.php:517 blog-filter-settings.php:674
+msgid "Title"
+msgstr "Tytuł"
+
+#: blog-filter-settings.php:518 blog-filter-settings.php:675
+msgid "Slug"
+msgstr "Ślimak"
+
+#: blog-filter-settings.php:524
+msgid "Post Order"
+msgstr "Polecenie pocztowe"
+
+#: blog-filter-settings.php:528 blog-filter-settings.php:685
+msgid "Ascending "
+msgstr "Rosnąco "
+
+#: blog-filter-settings.php:529 blog-filter-settings.php:686
+msgid "Descending  "
+msgstr "Malejąco  "
+
+#: blog-filter-settings.php:542
+msgid "Thumbnail Settings"
+msgstr "Ustawienia miniatur"
+
+#: blog-filter-settings.php:547
+msgid "Thumbanil Hover Effect"
+msgstr "Efekt najechania miniaturą"
+
+#: blog-filter-settings.php:558
+msgid "Thumbnail Spacing"
+msgstr "Odstępy między miniaturami"
+
+#: blog-filter-settings.php:577
+msgid "Pagination & Load More Settings"
+msgstr "Paginacja"
+
+#: blog-filter-settings.php:582
+msgid "Pagination"
+msgstr "Paginacja"
+
+#: blog-filter-settings.php:593
+msgid "Load More"
+msgstr "Załaduj więcej"
+
+#: blog-filter-settings.php:604
+msgid "Load On Scroll"
+msgstr "Załaduj podczas przewijania"
+
+#: blog-filter-settings.php:616
+msgid "Pagination / Load More Button Color"
+msgstr "Paginacja / Załaduj więcej Kolor przycisku"
+
+#: blog-filter-settings.php:624
+msgid "Blogs On Per Page (First Page Load) / On initial Page Load"
+msgstr ""
+"Blogi na stronę (pierwsze ładowanie strony) / Przy początkowym ładowaniu "
+"strony"
+
+#: blog-filter-settings.php:632
+msgid "Blogs On Load More / On Scroll"
+msgstr "Blogi przy ładowaniu więcej / przy przewijaniu"
+
+#: blog-filter-settings.php:640
+msgid "Text For \"Load More\""
+msgstr "Tekst dla „Załaduj więcej”"
+
+#: blog-filter-settings.php:648
+msgid "Text For \"No More Posts\""
+msgstr "Tekst dla „Żadnych więcej postów”"
+
+#: blog-filter-settings.php:664
+msgid "Filter Order Settings"
+msgstr "Ustawienia kolejności filtrów"
+
+#: blog-filter-settings.php:669
+msgid "Filter Order By"
+msgstr "Filtruj kolejność według"
+
+#: blog-filter-settings.php:681
+msgid "Filter Order"
+msgstr "Kolejność filtrów"
+
+#: blog-filter-settings.php:698
+msgid "Filter Settings"
+msgstr "Ustawienia filtra"
+
+#: blog-filter-settings.php:703
+msgid "Filters In DropDown"
+msgstr "Filtry w menu rozwijanym"
+
+#: blog-filter-settings.php:714
+msgid "Show Filters"
+msgstr "Pokaż filtry"
+
+#: blog-filter-settings.php:725
+msgid "Filter Style"
+msgstr "Styl filtra"
+
+#: blog-filter-settings.php:729
+msgid "Button Filter"
+msgstr "Przycisk Filtr"
+
+#: blog-filter-settings.php:730
+msgid "Dropdown Filter"
+msgstr "Filtr rozwijany"
+
+#: blog-filter-settings.php:736
+msgid "Show Post Count On Filters"
+msgstr "Pokaż liczbę postów w filtrach"
+
+#: blog-filter-settings.php:747
+msgid "Show Filter \"All\""
+msgstr "Pokaż filtr „Wszystkie”"
+
+#: blog-filter-settings.php:758
+msgid "Text For \"All\" Button"
+msgstr "Tekst dla przycisku „Wszystkie”"
+
+#: blog-filter-settings.php:766
+msgid "Multi-Filter In Same Time"
+msgstr "Multifiltr w tym samym czasie"
+
+#: blog-filter-settings.php:777
+msgid "\"And\" logic for Multi-Filter"
+msgstr "Logika „I” dla Multifiltra"
+
+#: blog-filter-settings.php:788
+msgid "Blog Search Field"
+msgstr "Pole wyszukiwania bloga"
+
+#: blog-filter-settings.php:799
+msgid "Text For Search"
+msgstr "Tekst do wyszukiwania"
+
+#: blog-filter-settings.php:807
+msgid "Buttons Color"
+msgstr "Kolor przycisków"
+
+#: blog-filter-settings.php:815
+msgid "Filtering with"
+msgstr "Filtrowanie za pomocą"
+
+#: blog-filter-settings.php:819 blog-filter-settings.php:876
+#: blog-filter-settings.php:946
+msgid "Category"
+msgstr "Kategoria"
+
+#: blog-filter-settings.php:820
+msgid "Tag"
+msgstr "Znacznik"
+
+#: blog-filter-settings.php:826
+msgid "Select Category Default Filter"
+msgstr "Wybierz domyślny filtr kategorii"
+
+#: blog-filter-settings.php:846
+msgid "Select Tag Default Filter"
+msgstr "Wybierz domyślny filtr tagu"
+
+#: blog-filter-settings.php:875 blog-filter-settings.php:904
+#: blog-filter-settings.php:945 blog-filter-settings.php:974
+msgid "ID"
+msgstr "ID"
+
+#: blog-filter-settings.php:905 blog-filter-settings.php:975
+msgid "Post Tag"
+msgstr "Znacznik pocztowy"
+
+#: blog-filter-settings.php:932
+msgid "Exclude Post"
+msgstr "Wyklucz pocztę"
+
+#: blog-filter-settings.php:1001
+msgid "A WP Life Services"
+msgstr "A Usługi życiowe WP"
+
+#: blog-filter-settings.php:1005
+msgid "Please Rate Us"
+msgstr "Proszę oceń nas"
+
+#: blog-filter-settings.php:1008
+msgid "Rate Us"
+msgstr "Oceń nas"
+
+#: blog-filter-settings.php:1013
+msgid "Update Shortcode, Without Regenerate It"
+msgstr "Zaktualizuj krótki kod, bez jego ponownego generowania"
+
+#: blog-filter-settings.php:1016
+msgid "See Post"
+msgstr "Zobacz post"
+
+#: blog-filter-settings.php:1021
+msgid "Product Support"
+msgstr "Wsparcie produktu"
+
+#: blog-filter-settings.php:1024
+msgid "Support"
+msgstr "Wsparcie"
+
+#: blog-filter-settings.php:1030
+msgid "Product Documentation"
+msgstr "Dokumentacja produktu"
+
+#: blog-filter-settings.php:1033
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+#: blog-filter-settings.php:1047
+msgid "Version - "
+msgstr "Wersja - "
+
+#: blog-filter-settings.php:1052
+msgid "[ Generate Shortcode ]"
+msgstr "[Wygeneruj krótki kod]"
+
+#: blog-filter-settings.php:1066
+msgid "Blog Filter Shortcode"
+msgstr "Krótki kod filtra bloga"
+
+#: blog-filter-settings.php:1069
+msgid "Copy The Shortcode"
+msgstr "Skopiuj krótki kod"
+
+#: blog-filter-settings.php:1073
+msgid "Copy Shortcode"
+msgstr "Skopiuj krótki kod"
+
+#: filtering/filters.php:119
+msgid "Filter"
+msgstr "Filtr"
+
+#: templates/blog-filter-content.php:87 templates/blog-filter-content.php:90
+#: templates/blog-filter-content.php:137 templates/blog-filter-content.php:140
+#: templates/blog-filter-content.php:246 templates/blog-filter-content.php:249
+#: templates/blog-filter-content.php:306 templates/blog-filter-content.php:309
+#: templates/blog-filter-content.php:446 templates/blog-filter-content.php:449
+msgid "By"
+msgstr "Przez"
+
+#: templates/blog-filter-content.php:456
+msgid " Comments"
+msgstr " Komentarze"

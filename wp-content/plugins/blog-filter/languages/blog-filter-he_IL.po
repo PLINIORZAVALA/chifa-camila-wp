@@ -1,0 +1,543 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-01-03 15:49+0530\n"
+"PO-Revision-Date: 2025-01-03 15:50+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: esc_html_e;_e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-premium.php:30 blog-filter-settings.php:1048
+msgid "Blog Filter Premium"
+msgstr "סינון בלוג פרימיום"
+
+#: blog-filter-premium.php:56
+msgid "Settings"
+msgstr "הגדרות"
+
+#: blog-filter-premium.php:90
+msgid "Blog Filters Settings"
+msgstr "הגדרות מסנני בלוגים"
+
+#: blog-filter-settings.php:19
+msgid "Blog Filter Settings Page"
+msgstr "דף הגדרות מסנן בלוג"
+
+#: blog-filter-settings.php:26
+msgid "Template Settings"
+msgstr "הגדרות תבנית"
+
+#: blog-filter-settings.php:31
+msgid "Template Right To Left "
+msgstr "תבנית מימין לשמאל "
+
+#: blog-filter-settings.php:42
+msgid "Blog Template"
+msgstr "תבנית בלוג"
+
+#: blog-filter-settings.php:46
+msgid "Template 1"
+msgstr "תבנית 1"
+
+#: blog-filter-settings.php:47
+msgid "Template 2"
+msgstr "תבנית 2"
+
+#: blog-filter-settings.php:48
+msgid "Template 3"
+msgstr "תבנית 3"
+
+#: blog-filter-settings.php:54
+msgid "Column On Large Desktop"
+msgstr "עמודה על שולחן עבודה גדול"
+
+#: blog-filter-settings.php:58 blog-filter-settings.php:73
+#: blog-filter-settings.php:88 blog-filter-settings.php:102
+msgid "1 Column"
+msgstr "עמודה אחת"
+
+#: blog-filter-settings.php:59 blog-filter-settings.php:74
+#: blog-filter-settings.php:89 blog-filter-settings.php:103
+msgid "2 Column"
+msgstr "שתי עמודות"
+
+#: blog-filter-settings.php:60 blog-filter-settings.php:75
+#: blog-filter-settings.php:90 blog-filter-settings.php:104
+msgid "3 Column"
+msgstr "שלוש עמודות"
+
+#: blog-filter-settings.php:61 blog-filter-settings.php:76
+#: blog-filter-settings.php:91 blog-filter-settings.php:105
+msgid "4 Column"
+msgstr "ארבע עמודות"
+
+#: blog-filter-settings.php:62 blog-filter-settings.php:77
+#: blog-filter-settings.php:92
+msgid "6 Column"
+msgstr "שש עמודות"
+
+#: blog-filter-settings.php:63 blog-filter-settings.php:78
+msgid "12 Column"
+msgstr "שתים עשרה עמודות"
+
+#: blog-filter-settings.php:69
+msgid "Column On Desktop"
+msgstr "עמודה על שולחן העבודה"
+
+#: blog-filter-settings.php:84
+msgid "Column On Tablet"
+msgstr "עמודה בטאבלט"
+
+#: blog-filter-settings.php:98
+msgid "Column On Phone"
+msgstr "עמודה בטלפון"
+
+#: blog-filter-settings.php:111
+msgid "Same Size Grid"
+msgstr "רשת באותו גודל"
+
+#: blog-filter-settings.php:128
+msgid "Image Settings"
+msgstr "הגדרות תמונה"
+
+#: blog-filter-settings.php:133
+msgid "Show Blog Images"
+msgstr "הצג תמונות בלוג"
+
+#: blog-filter-settings.php:144
+msgid "Link On Image"
+msgstr "קישור בתמונה"
+
+#: blog-filter-settings.php:155
+msgid "Lightbox On Image"
+msgstr "תיבת אור על תמונה"
+
+#: blog-filter-settings.php:166
+msgid "Image Hover Effect"
+msgstr "אפקט ריחוף של תמונה"
+
+#: blog-filter-settings.php:170 blog-filter-settings.php:831
+#: blog-filter-settings.php:851
+msgid "None"
+msgstr "אין"
+
+#: blog-filter-settings.php:171
+msgid "Hover 1"
+msgstr "רחף 1"
+
+#: blog-filter-settings.php:172
+msgid "Hover 2"
+msgstr "רחף 2"
+
+#: blog-filter-settings.php:173
+msgid "Hover 3"
+msgstr "רחף 3"
+
+#: blog-filter-settings.php:174
+msgid "Hover 4"
+msgstr "רחף 4"
+
+#: blog-filter-settings.php:175
+msgid "Hover 5"
+msgstr "רחף 5"
+
+#: blog-filter-settings.php:181
+msgid "Image Quality"
+msgstr "איכות תמונה"
+
+#: blog-filter-settings.php:185
+msgid "Thumbnail"
+msgstr "תמונה ממוזערת"
+
+#: blog-filter-settings.php:186
+msgid "Medium"
+msgstr "בינוני"
+
+#: blog-filter-settings.php:187
+msgid "Large"
+msgstr "גדול"
+
+#: blog-filter-settings.php:188
+msgid "Full"
+msgstr "מלא"
+
+#: blog-filter-settings.php:200
+msgid "Title Settings"
+msgstr "הגדרות כותרת"
+
+#: blog-filter-settings.php:205
+msgid "Show Blog Title"
+msgstr "הצג את כותרת הבלוג"
+
+#: blog-filter-settings.php:216
+msgid "Title Below The Image"
+msgstr "כותרת מתחת לתמונה"
+
+#: blog-filter-settings.php:227
+msgid "Link On Title"
+msgstr "קישור על כותרת"
+
+#: blog-filter-settings.php:238
+msgid "Title Text Color"
+msgstr "צבע טקסט כותרת"
+
+#: blog-filter-settings.php:246
+msgid "Title Font Size"
+msgstr "גודל גופן כותרת"
+
+#: blog-filter-settings.php:263
+msgid "Description Settings"
+msgstr "הגדרות תיאור"
+
+#: blog-filter-settings.php:268
+msgid "Show Blog Description"
+msgstr "הצג את תיאור הבלוג"
+
+#: blog-filter-settings.php:279
+msgid "Description Text Color"
+msgstr "צבע טקסט תיאור"
+
+#: blog-filter-settings.php:287
+msgid "Description Box Color"
+msgstr "צבע תיבת תיאור"
+
+#: blog-filter-settings.php:295
+msgid "Description Font Size"
+msgstr "גודל גופן תיאור"
+
+#: blog-filter-settings.php:306
+msgid "How Much Characters Show In Description"
+msgstr "כמה דמויות מופיעות בתיאור"
+
+#: blog-filter-settings.php:314
+msgid "Three Dots After Description"
+msgstr "שלוש נקודות אחרי תיאור"
+
+#: blog-filter-settings.php:331
+msgid "Post Meta Settings"
+msgstr "הגדרות מטא פוסט"
+
+#: blog-filter-settings.php:336
+msgid "Show Post Date"
+msgstr "הצג תאריך פרסום"
+
+#: blog-filter-settings.php:347
+msgid "Date Below The Image"
+msgstr "תאריך מתחת לתמונה"
+
+#: blog-filter-settings.php:358
+msgid "Show Post Author"
+msgstr "מחבר הפוסט"
+
+#: blog-filter-settings.php:369
+msgid "Author Below The Image"
+msgstr "מחבר מתחת לתמונה"
+
+#: blog-filter-settings.php:380
+msgid "Show Post Categories"
+msgstr "הצג קטגוריות פוסטים"
+
+#: blog-filter-settings.php:391
+msgid "Show Post Tags"
+msgstr "הצג תגיות פוסטים"
+
+#: blog-filter-settings.php:402
+msgid "Show Comments Count in Template 3"
+msgstr "הצג את ספירת ההערות בתבנית 3"
+
+#: blog-filter-settings.php:419
+msgid "Link (URL) Settings"
+msgstr "הגדרות קישור (URL)"
+
+#: blog-filter-settings.php:424
+msgid "Show Read More Link"
+msgstr "הצג קישור לקריאה נוספת"
+
+#: blog-filter-settings.php:435
+msgid "Link Open In New Tab"
+msgstr "קישור נפתח בכרטיסייה חדשה"
+
+#: blog-filter-settings.php:447
+msgid "Link On Date"
+msgstr "תאריך קישור"
+
+#: blog-filter-settings.php:458
+msgid "Link On Author"
+msgstr "קישור על מחבר"
+
+#: blog-filter-settings.php:469
+msgid "Link On Category"
+msgstr "קישור על קטגוריה"
+
+#: blog-filter-settings.php:480
+msgid "Link On Tags"
+msgstr "קישור על תגיות"
+
+#: blog-filter-settings.php:492
+msgid "Text For Read More Link"
+msgstr "טקסט לקרא עוד קישור"
+
+#: blog-filter-settings.php:507
+msgid "Post Order Settings"
+msgstr "הגדרות פוסט הזמנה"
+
+#: blog-filter-settings.php:512
+msgid "Post Order By"
+msgstr "הזמנה לפי"
+
+#: blog-filter-settings.php:516 blog-filter-settings.php:674
+msgid "Date"
+msgstr "תאריך"
+
+#: blog-filter-settings.php:517 blog-filter-settings.php:675
+msgid "Title"
+msgstr "כותרת"
+
+#: blog-filter-settings.php:518 blog-filter-settings.php:676
+msgid "Slug"
+msgstr "שבלול"
+
+#: blog-filter-settings.php:519
+msgid "Random"
+msgstr "אקראי"
+
+#: blog-filter-settings.php:525
+msgid "Post Order"
+msgstr "פוסט הזמנה"
+
+#: blog-filter-settings.php:529 blog-filter-settings.php:686
+msgid "Ascending "
+msgstr "עולה "
+
+#: blog-filter-settings.php:530 blog-filter-settings.php:687
+msgid "Descending  "
+msgstr "יורד  "
+
+#: blog-filter-settings.php:543
+msgid "Thumbnail Settings"
+msgstr "הגדרות תמונות ממוזערות"
+
+#: blog-filter-settings.php:548
+msgid "Thumbanil Hover Effect"
+msgstr "אפקט ריחוף אגודל"
+
+#: blog-filter-settings.php:559
+msgid "Thumbnail Spacing"
+msgstr "מרווח בין תמונות ממוזערות"
+
+#: blog-filter-settings.php:578
+msgid "Pagination & Load More Settings"
+msgstr "Pgination"
+
+#: blog-filter-settings.php:583
+msgid "Pagination"
+msgstr "דפיון"
+
+#: blog-filter-settings.php:594
+msgid "Load More"
+msgstr "טען עוד"
+
+#: blog-filter-settings.php:605
+msgid "Load On Scroll"
+msgstr "טען על גלילה"
+
+#: blog-filter-settings.php:617
+msgid "Pagination / Load More Button Color"
+msgstr "Pagination / טען יותר כפתור צבע"
+
+#: blog-filter-settings.php:625
+msgid "Blogs On Per Page (First Page Load) / On initial Page Load"
+msgstr "בלוגים בכל עמוד (טעינת עמוד ראשון) / בטעינת עמוד ראשונית"
+
+#: blog-filter-settings.php:633
+msgid "Blogs On Load More / On Scroll"
+msgstr "בלוגים על טען עוד / על גלילה"
+
+#: blog-filter-settings.php:641
+msgid "Text For \"Load More\""
+msgstr "טקסט עבור \"טען עוד\""
+
+#: blog-filter-settings.php:649
+msgid "Text For \"No More Posts\""
+msgstr "טקסט עבור \"לא עוד פוסטים\""
+
+#: blog-filter-settings.php:665
+msgid "Filter Order Settings"
+msgstr "הגדרות סדר מסנן"
+
+#: blog-filter-settings.php:670
+msgid "Filter Order By"
+msgstr "סנן הזמנה לפי"
+
+#: blog-filter-settings.php:682
+msgid "Filter Order"
+msgstr "סדר מסנן"
+
+#: blog-filter-settings.php:699
+msgid "Filter Settings"
+msgstr "הגדרות מסנן"
+
+#: blog-filter-settings.php:704
+msgid "Filters In DropDown"
+msgstr "מסננים ב-DropDown"
+
+#: blog-filter-settings.php:715
+msgid "Show Filters"
+msgstr "הצג מסננים"
+
+#: blog-filter-settings.php:726
+msgid "Filter Style"
+msgstr "סגנון מסנן"
+
+#: blog-filter-settings.php:730
+msgid "Button Filter"
+msgstr "מסנן לחצנים"
+
+#: blog-filter-settings.php:731
+msgid "Dropdown Filter"
+msgstr "מסנן נפתח"
+
+#: blog-filter-settings.php:737
+msgid "Show Post Count On Filters"
+msgstr "הצג מסנני ספירת פוסטים"
+
+#: blog-filter-settings.php:748
+msgid "Show Filter \"All\""
+msgstr "הצג מסנן \"הכל\""
+
+#: blog-filter-settings.php:759
+msgid "Text For \"All\" Button"
+msgstr "לחצן טקסט עבור \"הכל\"."
+
+#: blog-filter-settings.php:767
+msgid "Multi-Filter In Same Time"
+msgstr "מסנן מרובה באותו זמן"
+
+#: blog-filter-settings.php:778
+msgid "\"And\" logic for Multi-Filter"
+msgstr "לוגיקה \"וגם\" עבור מסנן מרובה"
+
+#: blog-filter-settings.php:789
+msgid "Blog Search Field"
+msgstr "שדה חיפוש בבלוג"
+
+#: blog-filter-settings.php:800
+msgid "Text For Search"
+msgstr "טקסט לחיפוש"
+
+#: blog-filter-settings.php:808
+msgid "Buttons Color"
+msgstr "צבע כפתורים"
+
+#: blog-filter-settings.php:816
+msgid "Filtering with"
+msgstr "סינון עם"
+
+#: blog-filter-settings.php:820 blog-filter-settings.php:877
+#: blog-filter-settings.php:947
+msgid "Category"
+msgstr "קטגוריה"
+
+#: blog-filter-settings.php:821
+msgid "Tag"
+msgstr "תג"
+
+#: blog-filter-settings.php:827
+msgid "Select Category Default Filter"
+msgstr "בחר מסנן ברירת מחדל לקטגוריה"
+
+#: blog-filter-settings.php:847
+msgid "Select Tag Default Filter"
+msgstr "בחר מסנן ברירת מחדל תג"
+
+#: blog-filter-settings.php:876 blog-filter-settings.php:905
+#: blog-filter-settings.php:946 blog-filter-settings.php:975
+msgid "ID"
+msgstr "מזהה"
+
+#: blog-filter-settings.php:906 blog-filter-settings.php:976
+msgid "Post Tag"
+msgstr "תג פוסט"
+
+#: blog-filter-settings.php:933
+msgid "Exclude Post"
+msgstr "אל תכלול פוסט"
+
+#: blog-filter-settings.php:1002
+msgid "A WP Life Services"
+msgstr "שירותי A WP Life"
+
+#: blog-filter-settings.php:1006
+msgid "Please Rate Us"
+msgstr "אנא דרג אותנו"
+
+#: blog-filter-settings.php:1009
+msgid "Rate Us"
+msgstr "דרג אותנו"
+
+#: blog-filter-settings.php:1014
+msgid "Update Shortcode, Without Regenerate It"
+msgstr "עדכן קוד קצר, מבלי ליצור אותו מחדש"
+
+#: blog-filter-settings.php:1017
+msgid "See Post"
+msgstr "ראה פוסט"
+
+#: blog-filter-settings.php:1022
+msgid "Product Support"
+msgstr "תמיכה במוצר"
+
+#: blog-filter-settings.php:1025
+msgid "Support"
+msgstr "תמיכה"
+
+#: blog-filter-settings.php:1031
+msgid "Product Documentation"
+msgstr "תיעוד מוצר"
+
+#: blog-filter-settings.php:1034
+msgid "Documentation"
+msgstr "תיעוד"
+
+#: blog-filter-settings.php:1048
+msgid "Version - "
+msgstr "גרסה - "
+
+#: blog-filter-settings.php:1053
+msgid "[ Generate Shortcode ]"
+msgstr "[ צור קוד קצר]"
+
+#: blog-filter-settings.php:1067
+msgid "Blog Filter Shortcode"
+msgstr "קוד קצר לסינון בלוג"
+
+#: blog-filter-settings.php:1070
+msgid "Copy The Shortcode"
+msgstr "העתק את הקוד הקצר"
+
+#: blog-filter-settings.php:1074
+msgid "Copy Shortcode"
+msgstr "העתק קוד קצר"
+
+#: filtering/filters.php:119
+msgid "Filter"
+msgstr "מסנן"
+
+#: templates/blog-filter-content.php:87 templates/blog-filter-content.php:90
+#: templates/blog-filter-content.php:137 templates/blog-filter-content.php:140
+#: templates/blog-filter-content.php:246 templates/blog-filter-content.php:249
+#: templates/blog-filter-content.php:306 templates/blog-filter-content.php:309
+#: templates/blog-filter-content.php:446 templates/blog-filter-content.php:449
+msgid "By"
+msgstr "מאת"
+
+#: templates/blog-filter-content.php:456
+msgid " Comments"
+msgstr "הערות"

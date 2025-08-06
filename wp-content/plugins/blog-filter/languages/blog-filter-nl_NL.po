@@ -1,0 +1,539 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Blog filter Dutch Translation\n"
+"POT-Creation-Date: 2023-12-12 16:34+0530\n"
+"PO-Revision-Date: 2023-12-12 16:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: blog-filter-premium.php:30 blog-filter-settings.php:1047
+msgid "Blog Filter Premium"
+msgstr "Blogfilter Premium"
+
+#: blog-filter-premium.php:56
+msgid "Settings"
+msgstr "Instellingen"
+
+#: blog-filter-premium.php:90
+msgid "Blog Filters Settings"
+msgstr "Instellingen blogfilters"
+
+#: blog-filter-settings.php:19
+msgid "Blog Filter Settings Page"
+msgstr "Pagina Blogfilterinstellingen"
+
+#: blog-filter-settings.php:26
+msgid "Template Settings"
+msgstr "Sjablooninstellingen"
+
+#: blog-filter-settings.php:31
+msgid "Template Right To Left "
+msgstr "Sjabloon van rechts naar links "
+
+#: blog-filter-settings.php:42
+msgid "Blog Template"
+msgstr "Blogsjabloon"
+
+#: blog-filter-settings.php:46
+msgid "Template 1"
+msgstr "Sjabloon 1"
+
+#: blog-filter-settings.php:47
+msgid "Template 2"
+msgstr "Sjabloon 2"
+
+#: blog-filter-settings.php:48
+msgid "Template 3"
+msgstr "Sjabloon 3"
+
+#: blog-filter-settings.php:54
+msgid "Column On Large Desktop"
+msgstr "Kolom op groot bureaublad"
+
+#: blog-filter-settings.php:58 blog-filter-settings.php:73
+#: blog-filter-settings.php:88 blog-filter-settings.php:102
+msgid "1 Column"
+msgstr "1 Kolom"
+
+#: blog-filter-settings.php:59 blog-filter-settings.php:74
+#: blog-filter-settings.php:89 blog-filter-settings.php:103
+msgid "2 Column"
+msgstr "2 Kolom"
+
+#: blog-filter-settings.php:60 blog-filter-settings.php:75
+#: blog-filter-settings.php:90 blog-filter-settings.php:104
+msgid "3 Column"
+msgstr "3 Kolom"
+
+#: blog-filter-settings.php:61 blog-filter-settings.php:76
+#: blog-filter-settings.php:91 blog-filter-settings.php:105
+msgid "4 Column"
+msgstr "4 Kolom"
+
+#: blog-filter-settings.php:62 blog-filter-settings.php:77
+#: blog-filter-settings.php:92
+msgid "6 Column"
+msgstr "6 Kolom"
+
+#: blog-filter-settings.php:63 blog-filter-settings.php:78
+msgid "12 Column"
+msgstr "12 Kolom"
+
+#: blog-filter-settings.php:69
+msgid "Column On Desktop"
+msgstr "Kolom op bureaublad"
+
+#: blog-filter-settings.php:84
+msgid "Column On Tablet"
+msgstr "Kolom op tablet"
+
+#: blog-filter-settings.php:98
+msgid "Column On Phone"
+msgstr "Kolom op telefoon"
+
+#: blog-filter-settings.php:111
+msgid "Same Size Grid"
+msgstr "Raster van dezelfde grootte"
+
+#: blog-filter-settings.php:128
+msgid "Image Settings"
+msgstr "Beeldinstellingen"
+
+#: blog-filter-settings.php:133
+msgid "Show Blog Images"
+msgstr "Blogafbeeldingen weergeven"
+
+#: blog-filter-settings.php:144
+msgid "Link On Image"
+msgstr "Link op afbeelding"
+
+#: blog-filter-settings.php:155
+msgid "Lightbox On Image"
+msgstr "Lightbox op afbeelding"
+
+#: blog-filter-settings.php:166
+msgid "Image Hover Effect"
+msgstr "Zweefeffect van afbeelding"
+
+#: blog-filter-settings.php:170 blog-filter-settings.php:830
+#: blog-filter-settings.php:850
+msgid "None"
+msgstr "Geen"
+
+#: blog-filter-settings.php:171
+msgid "Hover 1"
+msgstr "Zweven 1"
+
+#: blog-filter-settings.php:172
+msgid "Hover 2"
+msgstr "Zweven 2"
+
+#: blog-filter-settings.php:173
+msgid "Hover 3"
+msgstr "Zweven 3"
+
+#: blog-filter-settings.php:174
+msgid "Hover 4"
+msgstr "Zweven 4"
+
+#: blog-filter-settings.php:175
+msgid "Hover 5"
+msgstr "Zweven 5"
+
+#: blog-filter-settings.php:181
+msgid "Image Quality"
+msgstr "Beeldkwaliteit"
+
+#: blog-filter-settings.php:185
+msgid "Thumbnail"
+msgstr "Miniatuur"
+
+#: blog-filter-settings.php:186
+msgid "Medium"
+msgstr "Gemiddeld"
+
+#: blog-filter-settings.php:187
+msgid "Large"
+msgstr "Groot"
+
+#: blog-filter-settings.php:188
+msgid "Full"
+msgstr "Vol"
+
+#: blog-filter-settings.php:200
+msgid "Title Settings"
+msgstr "Titelinstellingen"
+
+#: blog-filter-settings.php:205
+msgid "Show Blog Title"
+msgstr "Blogtitel weergeven"
+
+#: blog-filter-settings.php:216
+msgid "Title Below The Image"
+msgstr "Titel onder de afbeelding"
+
+#: blog-filter-settings.php:227
+msgid "Link On Title"
+msgstr "Link op titel"
+
+#: blog-filter-settings.php:238
+msgid "Title Text Color"
+msgstr "Titeltekstkleur"
+
+#: blog-filter-settings.php:246
+msgid "Title Font Size"
+msgstr "Lettergrootte titel"
+
+#: blog-filter-settings.php:263
+msgid "Description Settings"
+msgstr "Beschrijving Instellingen"
+
+#: blog-filter-settings.php:268
+msgid "Show Blog Description"
+msgstr "Blogbeschrijving weergeven"
+
+#: blog-filter-settings.php:279
+msgid "Description Text Color"
+msgstr "Beschrijving Tekstkleur"
+
+#: blog-filter-settings.php:287
+msgid "Description Box Color"
+msgstr "Beschrijving Kleur doos"
+
+#: blog-filter-settings.php:295
+msgid "Description Font Size"
+msgstr "Beschrijving Lettergrootte"
+
+#: blog-filter-settings.php:306
+msgid "How Much Characters Show In Description"
+msgstr "Hoeveel tekens worden weergegeven in de beschrijving"
+
+#: blog-filter-settings.php:314
+msgid "Three Dots After Description"
+msgstr "Drie punten na beschrijving"
+
+#: blog-filter-settings.php:331
+msgid "Post Meta Settings"
+msgstr "Post-meta-instellingen"
+
+#: blog-filter-settings.php:336
+msgid "Show Post Date"
+msgstr "Toon berichtdatum"
+
+#: blog-filter-settings.php:347
+msgid "Date Below The Image"
+msgstr "Datum onder de afbeelding"
+
+#: blog-filter-settings.php:358
+msgid "Show Post Author"
+msgstr "Toon berichtauteur"
+
+#: blog-filter-settings.php:369
+msgid "Author Below The Image"
+msgstr "Auteur onder de afbeelding"
+
+#: blog-filter-settings.php:380
+msgid "Show Post Categories"
+msgstr "Berichtcategorieën tonen"
+
+#: blog-filter-settings.php:391
+msgid "Show Post Tags"
+msgstr "Berichttags tonen"
+
+#: blog-filter-settings.php:402
+msgid "Show Comments Count in Template 3"
+msgstr "Toon het aantal opmerkingen in sjabloon 3"
+
+#: blog-filter-settings.php:419
+msgid "Link (URL) Settings"
+msgstr "Link (URL)-instellingen"
+
+#: blog-filter-settings.php:424
+msgid "Show Read More Link"
+msgstr "Lees meer-link weergeven"
+
+#: blog-filter-settings.php:435
+msgid "Link Open In New Tab"
+msgstr "Koppeling openen in nieuw tabblad"
+
+#: blog-filter-settings.php:447
+msgid "Link On Date"
+msgstr "Datum koppeling ingeschakeld"
+
+#: blog-filter-settings.php:458
+msgid "Link On Author"
+msgstr "Link naar auteur"
+
+#: blog-filter-settings.php:469
+msgid "Link On Category"
+msgstr "Koppeling aan categorie"
+
+#: blog-filter-settings.php:480
+msgid "Link On Tags"
+msgstr "Link op tags"
+
+#: blog-filter-settings.php:492
+msgid "Text For Read More Link"
+msgstr "Tekst voor Lees Meer-link"
+
+#: blog-filter-settings.php:507
+msgid "Post Order Settings"
+msgstr "Instellingen na bestelling"
+
+#: blog-filter-settings.php:512
+msgid "Post Order By"
+msgstr "Bestelling plaatsen door"
+
+#: blog-filter-settings.php:516 blog-filter-settings.php:673
+msgid "Date"
+msgstr "Datum"
+
+#: blog-filter-settings.php:517 blog-filter-settings.php:674
+msgid "Title"
+msgstr "Titel"
+
+#: blog-filter-settings.php:518 blog-filter-settings.php:675
+msgid "Slug"
+msgstr "Slak"
+
+#: blog-filter-settings.php:524
+msgid "Post Order"
+msgstr "Postorder"
+
+#: blog-filter-settings.php:528 blog-filter-settings.php:685
+msgid "Ascending "
+msgstr "Oplopend "
+
+#: blog-filter-settings.php:529 blog-filter-settings.php:686
+msgid "Descending  "
+msgstr "Aflopend "
+
+#: blog-filter-settings.php:542
+msgid "Thumbnail Settings"
+msgstr "Miniatuurinstellingen"
+
+#: blog-filter-settings.php:547
+msgid "Thumbanil Hover Effect"
+msgstr "Thumbanil-zweefeffect"
+
+#: blog-filter-settings.php:558
+msgid "Thumbnail Spacing"
+msgstr "Afstand tussen miniatuurweergaven"
+
+#: blog-filter-settings.php:577
+msgid "Pagination & Load More Settings"
+msgstr "Paginering"
+
+#: blog-filter-settings.php:582
+msgid "Pagination"
+msgstr "Paginering"
+
+#: blog-filter-settings.php:593
+msgid "Load More"
+msgstr "Laad meer"
+
+#: blog-filter-settings.php:604
+msgid "Load On Scroll"
+msgstr "Laden bij scrollen"
+
+#: blog-filter-settings.php:616
+msgid "Pagination / Load More Button Color"
+msgstr "Paginering / Meer knopkleur laden"
+
+#: blog-filter-settings.php:624
+msgid "Blogs On Per Page (First Page Load) / On initial Page Load"
+msgstr "Blogs aan per pagina (eerste pagina geladen) / Bij eerste pagina geladen"
+
+#: blog-filter-settings.php:632
+msgid "Blogs On Load More / On Scroll"
+msgstr "Blogs bij meer laden / bij scrollen"
+
+#: blog-filter-settings.php:640
+msgid "Text For \"Load More\""
+msgstr "Tekst voor \"Laad meer\""
+
+#: blog-filter-settings.php:648
+msgid "Text For \"No More Posts\""
+msgstr "Tekst voor \"Geen berichten meer\""
+
+#: blog-filter-settings.php:664
+msgid "Filter Order Settings"
+msgstr "Filtervolgorde-instellingen"
+
+#: blog-filter-settings.php:669
+msgid "Filter Order By"
+msgstr "Filtervolgorde"
+
+#: blog-filter-settings.php:681
+msgid "Filter Order"
+msgstr "Filtervolgorde"
+
+#: blog-filter-settings.php:698
+msgid "Filter Settings"
+msgstr "Filterinstellingen"
+
+#: blog-filter-settings.php:703
+msgid "Filters In DropDown"
+msgstr "Filters in vervolgkeuzelijst"
+
+#: blog-filter-settings.php:714
+msgid "Show Filters"
+msgstr "Filters weergeven"
+
+#: blog-filter-settings.php:725
+msgid "Filter Style"
+msgstr "Filterstijl"
+
+#: blog-filter-settings.php:729
+msgid "Button Filter"
+msgstr "Knopfilter"
+
+#: blog-filter-settings.php:730
+msgid "Dropdown Filter"
+msgstr "Dropdownfilter"
+
+#: blog-filter-settings.php:736
+msgid "Show Post Count On Filters"
+msgstr "Aantal berichten op filters weergeven"
+
+#: blog-filter-settings.php:747
+msgid "Show Filter \"All\""
+msgstr "Filter \"Alles\" weergeven"
+
+#: blog-filter-settings.php:758
+msgid "Text For \"All\" Button"
+msgstr "Tekst voor knop \"Alles\""
+
+#: blog-filter-settings.php:766
+msgid "Multi-Filter In Same Time"
+msgstr "Multifilter in dezelfde tijd"
+
+#: blog-filter-settings.php:777
+msgid "\"And\" logic for Multi-Filter"
+msgstr "\"En\" logica voor multifilter"
+
+#: blog-filter-settings.php:788
+msgid "Blog Search Field"
+msgstr "Blogzoekveld"
+
+#: blog-filter-settings.php:799
+msgid "Text For Search"
+msgstr "Tekst voor zoeken"
+
+#: blog-filter-settings.php:807
+msgid "Buttons Color"
+msgstr "Knopkleur"
+
+#: blog-filter-settings.php:815
+msgid "Filtering with"
+msgstr "Filteren met"
+
+#: blog-filter-settings.php:819 blog-filter-settings.php:876
+#: blog-filter-settings.php:946
+msgid "Category"
+msgstr "Categorie"
+
+#: blog-filter-settings.php:820
+msgid "Tag"
+msgstr "Label"
+
+#: blog-filter-settings.php:826
+msgid "Select Category Default Filter"
+msgstr "Selecteer standaardfilter voor categorie"
+
+#: blog-filter-settings.php:846
+msgid "Select Tag Default Filter"
+msgstr "Selecteer standaardtagfilter"
+
+#: blog-filter-settings.php:875 blog-filter-settings.php:904
+#: blog-filter-settings.php:945 blog-filter-settings.php:974
+msgid "ID"
+msgstr "ID"
+
+#: blog-filter-settings.php:905 blog-filter-settings.php:975
+msgid "Post Tag"
+msgstr "Posttag"
+
+#: blog-filter-settings.php:932
+msgid "Exclude Post"
+msgstr "Post uitsluiten"
+
+#: blog-filter-settings.php:1001
+msgid "A WP Life Services"
+msgstr "Een WP Life Services"
+
+#: blog-filter-settings.php:1005
+msgid "Please Rate Us"
+msgstr "Beoordeel ons alstublieft"
+
+#: blog-filter-settings.php:1008
+msgid "Rate Us"
+msgstr "Beoordeel ons"
+
+#: blog-filter-settings.php:1013
+msgid "Update Shortcode, Without Regenerate It"
+msgstr "Shortcode bijwerken, zonder deze opnieuw te genereren"
+
+#: blog-filter-settings.php:1016
+msgid "See Post"
+msgstr "Zie bericht"
+
+#: blog-filter-settings.php:1021
+msgid "Product Support"
+msgstr "Productondersteuning"
+
+#: blog-filter-settings.php:1024
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: blog-filter-settings.php:1030
+msgid "Product Documentation"
+msgstr "Productdocumentatie"
+
+#: blog-filter-settings.php:1033
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: blog-filter-settings.php:1047
+msgid "Version - "
+msgstr "Versie - "
+
+#: blog-filter-settings.php:1052
+msgid "[ Generate Shortcode ]"
+msgstr "[Genereer shortcode]"
+
+#: blog-filter-settings.php:1066
+msgid "Blog Filter Shortcode"
+msgstr "Shortcode voor blogfilter"
+
+#: blog-filter-settings.php:1069
+msgid "Copy The Shortcode"
+msgstr "Kopieer de shortcode"
+
+#: blog-filter-settings.php:1073
+msgid "Copy Shortcode"
+msgstr "Shortcode kopiëren"
+
+#: filtering/filters.php:119
+msgid "Filter"
+msgstr "Filteren"
+
+#: templates/blog-filter-content.php:87 templates/blog-filter-content.php:90
+#: templates/blog-filter-content.php:137 templates/blog-filter-content.php:140
+#: templates/blog-filter-content.php:246 templates/blog-filter-content.php:249
+#: templates/blog-filter-content.php:306 templates/blog-filter-content.php:309
+#: templates/blog-filter-content.php:446 templates/blog-filter-content.php:449
+msgid "By"
+msgstr "Door"
+
+#: templates/blog-filter-content.php:456
+msgid " Comments"
+msgstr " Opmerkingen"
