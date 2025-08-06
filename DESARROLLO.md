@@ -118,6 +118,57 @@ Páginas a crear (en este orden):
    - Título: "Galería"
    - Contenido temporal: "Fotos de nuestros platos"
    - Estado: Publicar
+
+📝 PÁGINA 8: Blog/Noticias
+   - Título: "Blog"
+   - Contenido temporal: "Noticias y novedades del restaurante"
+   - Estado: Publicar
+
+🔒 PÁGINA 9: Política de Privacidad
+   - Título: "Política de Privacidad"
+   - Contenido: Usar generador de WP + personalización
+   - Estado: Publicar
+
+### **2.1.1 Crear Categorías para Blog** ⏳
+```bash
+📍 Ubicación: Entradas > Categorías
+⏱️ Tiempo estimado: 5 minutos
+
+CATEGORÍAS DEL BLOG:
+✅ Noticias del Restaurante
+✅ Promociones y Ofertas
+✅ Recetas y Tips de Cocina
+✅ Eventos Especiales
+✅ Historia de la Cocina Chifa
+✅ Testimonios de Clientes
+```
+
+### **2.1.2 Crear Entradas de Blog** ⏳
+```bash
+📍 Ubicación: Entradas > Añadir nueva
+⏱️ Tiempo estimado: 30 minutos
+
+ENTRADAS REQUERIDAS (mínimo 5):
+
+📰 ENTRADA 1: "Bienvenidos a Chifa Camila"
+   - Categoría: Noticias del Restaurante
+   - Contenido: Historia del restaurante, por qué abrimos
+
+📈 ENTRADA 2: "Promoción de Apertura - 20% de descuento"
+   - Categoría: Promociones y Ofertas
+   - Contenido: Detalles de la promoción inaugural
+
+🍜 ENTRADA 3: "El secreto del perfecto Arroz Chaufa"
+   - Categoría: Recetas y Tips de Cocina
+   - Contenido: Tips para preparar chaufa en casa
+
+🎉 ENTRADA 4: "Celebra tu cumpleaños con nosotros"
+   - Categoría: Eventos Especiales
+   - Contenido: Paquetes para celebraciones
+
+📜 ENTRADA 5: "Historia de la cocina chifa en el Perú"
+   - Categoría: Historia de la Cocina Chifa
+   - Contenido: Origen y evolución del chifa
 ```
 
 ### **2.2 Configurar Página de Inicio** ⏳
@@ -142,6 +193,7 @@ MENÚ PRINCIPAL:
 ✅ Añadir páginas:
    - Inicio
    - Nosotros  
+   - Blog
    - Menú
    - Tienda
    - Reservas
@@ -152,12 +204,66 @@ MENÚ PRINCIPAL:
 
 MENÚ FOOTER:
 ✅ Nombre del menú: "Menú Footer"
-✅ Añadir enlaces personalizados:
-   - Horarios
-   - Política de privacidad
-   - Términos y condiciones
+✅ Añadir páginas y enlaces:
+   - Política de Privacidad
+   - Términos y Condiciones
+   - Mapa del Sitio
+✅ Añadir menú de categorías del blog
+✅ Información de contacto: dirección, teléfono, email
+✅ Copyright: "© 2025 Chifa Camila. Todos los derechos reservados."
 ✅ Asignar a: "Footer" o "Pie de página"
 ✅ Guardar menú
+
+### **2.4 Configurar Header y Logo** ⏳
+```bash
+📍 Ubicación: Apariencia > Personalizar > Identidad del sitio
+⏱️ Tiempo estimado: 15 minutos
+
+CONFIGURACIÓN DEL HEADER:
+✅ Logo: Crear/subir logo de Chifa Camila (250x80px)
+✅ Favicon: Crear favicon con logo del restaurante (32x32px)
+✅ Título del sitio: "Chifa Camila"
+✅ Descripción: "Auténtica cocina chino-peruana"
+✅ Mostrar logo en todas las páginas
+✅ Menú principal visible y funcional
+
+DISEÑO DEL LOGO:
+✅ Elementos: Nombre "Chifa Camila" + elementos orientales
+✅ Colores: Rojo chino (#DC143C) y dorado (#FFD700)
+✅ Tipografía: Oriental/elegante
+✅ Formato: PNG con fondo transparente
+```
+
+### **2.5 Configurar Footer Completo** ⏳
+```bash
+📍 Ubicación: Apariencia > Widgets o Personalizar > Footer
+⏱️ Tiempo estimado: 20 minutos
+
+ESTRUCTURA DEL FOOTER (4 columnas):
+
+COLUMNA 1: Información de la Empresa
+✅ Logo pequeño
+✅ Descripción breve: "Auténtica cocina chino-peruana desde [año]"
+✅ Copyright: "© 2025 Chifa Camila. Todos los derechos reservados."
+
+COLUMNA 2: Enlaces Rápidos
+✅ Inicio
+✅ Nosotros
+✅ Blog
+✅ Contacto
+✅ Política de Privacidad
+
+COLUMNA 3: Categorías del Blog
+✅ Noticias del Restaurante
+✅ Promociones y Ofertas
+✅ Recetas y Tips
+✅ Eventos Especiales
+
+COLUMNA 4: Información de Contacto
+✅ 📍 Dirección: [Dirección completa]
+✅ 📞 Teléfono: [Número de teléfono]
+✅ 📧 Email: [Email de contacto]
+✅ 🕒 Horarios: Lunes a Domingo, 11:00 AM - 10:00 PM
 ```
 
 ---
@@ -393,11 +499,11 @@ ESTRUCTURA DE LA PÁGINA:
 FORMULARIO 1: Contacto General
 ✅ Nombre: "Formulario de Contacto"
 ✅ Campos: Nombre, Email, Teléfono, Mensaje
-✅ Shortcode: [contact-form-7 id="1" title="Contacto"]
+✅ Shortcode: [contact-form-7 id="1" title="Contacto"]      
 
 FORMULARIO 2: Reservas
 ✅ Nombre: "Formulario de Reservas"
-✅ Campos: Nombre, Email, Teléfono, Fecha, Hora, Personas
+✅ Campos: Nombre, Email, Teléfono, Fecha, Hora, Personas   
 ✅ Shortcode: [contact-form-7 id="2" title="Reservas"]
 ```
 
@@ -444,7 +550,114 @@ OPTIMIZACIÓN:
 
 ---
 
-## ✅ **CHECKLIST FINAL**
+## 🎓 **SECCIÓN ESPECIAL: CUMPLIMIENTO DE REQUERIMIENTOS ACADÉMICOS**
+
+### **📋 CHECKLIST DE REQUERIMIENTOS OBLIGATORIOS**
+
+#### **✅ 1. Empresa Autorizada**
+- [x] Chifa Camila - Restaurante de cocina chino-peruana
+- [x] Autorización obtenida del propietario
+- [x] Información real del negocio recopilada
+
+#### **✅ 2. Información del Modelo de Negocio**
+- [x] Giro del negocio: Restaurante de comida chifa
+- [x] Servicios: Comida en local, delivery, takeaway
+- [x] Productos: Menú completo con 25+ platos
+- [x] Precios: Desde S/ 6.00 hasta S/ 14.00
+- [x] Horarios: Lunes a Domingo, 11:00 AM - 10:00 PM
+
+#### **⏳ 3. Páginas Obligatorias del Sitio Web**
+
+**a) ✅ Página Inicio**
+- [x] Definida en la guía (Sección 2.1 - Página 1)
+- [x] Contenido: Bienvenida, platos destacados, llamadas a la acción
+
+**b) ✅ Página Nosotros**  
+- [x] Definida en la guía (Sección 2.1 - Página 2)
+- [ ] **PENDIENTE**: Añadir contenido específico:
+  - Historia del restaurante
+  - Misión y visión
+  - Organigrama/personal
+  - Palabras del fundador
+  - Imágenes del personal/restaurante
+
+**c) ✅ Categorías para Entradas**
+- [x] Definidas en la guía (Sección 2.1.1)
+- [x] 6 categorías creadas para el blog
+
+**d) ✅ Página Blog**
+- [x] Definida en la guía (Sección 2.1 - Página 8)
+- [x] 5 entradas planificadas sobre el giro del negocio
+
+**e) ✅ Página Contacto**
+- [x] Definida en la guía (Sección 2.1 - Página 6)
+- [ ] **PENDIENTE**: Añadir específicamente:
+  - Formulario de contacto (Contact Form 7)
+  - Mapa de Google Maps embebido
+  - Teléfonos de contacto
+  - Correos electrónicos
+
+**f) ✅ Página Privacidad**
+- [x] Definida en la guía (Sección 2.1 - Página 9)
+- [ ] **PENDIENTE**: Generar con WP y personalizar
+
+#### **⏳ 4. Header Obligatorio**
+- [x] Logo del restaurante (crear/mejorar si es necesario)
+- [x] Menú principal con: Inicio, Nosotros, Blog, Contacto
+- [x] Configuración definida en Sección 2.4
+
+#### **⏳ 5. Footer Obligatorio**
+- [x] Copyright de la empresa
+- [x] Enlace a página de privacidad
+- [x] Menú de categorías del blog
+- [x] Información de contacto (dirección, teléfono, email)
+- [x] Configuración definida en Sección 2.5
+
+#### **⏳ 6. Favicon**
+- [x] Definido en la guía (32x32px)
+- [ ] **PENDIENTE**: Crear favicon específico del restaurante
+
+#### **⏳ 7. Plugins y Temas**
+- [x] Tema Astra seleccionado
+- [x] Plugins definidos: Elementor, WooCommerce, Contact Form 7, Yoast SEO
+- [x] Uso del editor de bloques planificado
+
+#### **⏳ 8. Optimización de Imágenes**
+- [x] Especificaciones definidas en Sección 5.3
+- [x] Tamaños y formatos especificados
+- [ ] **PENDIENTE**: Crear/optimizar imágenes reales
+
+#### **❌ 9. Hosting y Dominio (PENDIENTE)**
+- [ ] **FALTA**: Obtener hosting (gratuito o de pago)
+- [ ] **FALTA**: Registrar dominio con nombre del restaurante
+- [ ] **SUGERENCIA**: chifacamila.com o subdominio gratuito
+
+#### **❌ 10. Migración (PENDIENTE)**
+- [ ] **FALTA**: Migrar sitio de local a hosting
+- [ ] **FALTA**: Configurar dominio para acceso público
+- [ ] **FALTA**: Pruebas de acceso desde diferentes dispositivos
+
+### **🚨 TAREAS CRÍTICAS PENDIENTES PARA CUMPLIR REQUERIMIENTOS:**
+
+#### **PRIORIDAD ALTA:**
+1. **Crear contenido real para página "Nosotros"**
+2. **Implementar formulario de contacto con Google Maps**
+3. **Generar página de privacidad personalizada**
+4. **Crear/mejorar logo y favicon del restaurante**
+5. **Obtener hosting y dominio**
+
+#### **PRIORIDAD MEDIA:**
+1. **Crear 5 entradas de blog con contenido relevante**
+2. **Optimizar todas las imágenes**
+3. **Configurar footer completo con toda la información**
+
+#### **ANTES DE LA ENTREGA:**
+1. **Migrar sitio a hosting público**
+2. **Probar acceso desde múltiples dispositivos**
+3. **Verificar que todas las páginas funcionen**
+4. **Enviar URL correcta para revisión**
+
+---
 
 ### **Antes de Publicar:**
 ```bash
