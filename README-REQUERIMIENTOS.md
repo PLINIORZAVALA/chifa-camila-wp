@@ -161,16 +161,30 @@ Este documento detalla el estado de cada requerimiento solicitado para la plataf
 
 ### 2. Configurar Mercado Pago
 1. Ve a **WooCommerce > Ajustes > Pagos**
-2. Busca "Mercado Pago" en la lista de métodos de pago
-3. Haz clic en **Configurar**
-4. Ingresa tus credenciales de Mercado Pago (Client ID y Client Secret)
-   - Puedes obtenerlas en tu cuenta de Mercado Pago > Credenciales
-5. Activa el método de pago y guarda los cambios
-6. Realiza una compra de prueba para verificar que funciona
+2. Busca "Mercado Pago" en la lista de métodos de pago y haz clic en **Configurar**
+3. En la pantalla de configuración, selecciona el tipo de integración que deseas (Checkout Pro, Checkout Básico, etc.)
+4. Ingresa tus credenciales de Mercado Pago:
+   - **Client ID** y **Client Secret**: Obtén estos datos en tu cuenta de Mercado Pago, sección "Credenciales" (https://www.mercadopago.com.pe/developers/panel/credentials)
+   - Copia y pega ambos valores en los campos correspondientes
+5. Configura las opciones adicionales:
+   - Elige los medios de pago que quieres aceptar (tarjeta, efectivo, etc.)
+   - Personaliza el mensaje/instrucciones para el cliente si lo deseas
+   - Activa/desactiva el modo sandbox para pruebas
+6. Haz clic en **Guardar cambios**
+7. Ve a la tienda y realiza una compra de prueba:
+   - Elige un producto y procede al checkout
+   - Selecciona Mercado Pago como método de pago
+   - Completa el proceso y verifica que la transacción se registre correctamente
+8. Revisa en tu panel de Mercado Pago que la venta se haya registrado
+9. Si todo funciona, desactiva el modo sandbox para ventas reales
+
+**Recomendaciones:**
+- Si tienes problemas, revisa que las credenciales sean correctas y que tu cuenta esté habilitada para recibir pagos.
+- Consulta la documentación oficial de Mercado Pago para WooCommerce si necesitas ayuda avanzada.
 
 ### 3. Instalar y configurar Yape (método personalizado)
 1. Ve a **Plugins > Añadir nuevo**
-2. Busca: `WooCommerce Custom Payment Gateway` o similar
+2. Busca: `YAPE A1 Tiendas` o similar
 3. Instala y activa el plugin
 4. Ve a **WooCommerce > Ajustes > Pagos**
 5. Haz clic en **Añadir método de pago** y selecciona "Custom Gateway" o "Transferencia bancaria"
