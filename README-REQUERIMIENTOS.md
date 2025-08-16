@@ -11,15 +11,10 @@ Este documento detalla el estado de cada requerimiento solicitado para la plataf
 2. **Menú principal con opción Tienda y carrito**
    - Planificado en la guía de desarrollo.
    - Estructura del menú lista para incluir Tienda, Blog, Contacto, etc.
-
-3. **Categorías de producto y productos creados**
-   - Guía para crear categorías y productos en `DESARROLLO.md`.
    - Estructura para productos simples y variables.
-
 4. **Botón de WhatsApp en tienda, producto, carrito y checkout**
    - Plugin `oneclick-whatsapp-order` instalado y configurado.
    - Código y documentación muestran integración en todas las páginas relevantes.
-
 5. **Página de tienda con categorías y productos en filas**
    - Uso de ShopEngine y WooCommerce para mostrar productos y categorías.
    - Widgets y plantillas disponibles.
@@ -49,8 +44,6 @@ Este documento detalla el estado de cada requerimiento solicitado para la plataf
 
 ---
 
-## ❌ Faltantes o pendientes de implementación
-
 - **Creación manual de productos y categorías:**
   - Se debe ingresar todos los productos reales de la empresa (mínimo 15), con imágenes y descripciones optimizadas.
 
@@ -64,26 +57,75 @@ Este documento detalla el estado de cada requerimiento solicitado para la plataf
   - Definir regiones y métodos según la logística de la empresa.
 
 - **Creación y prueba de cupones:**
-  - Crear el cupón EPIIS123 y validar su funcionamiento.
-
-- **Prueba de producto descargable:**
   - Crear producto PDF, simular compra y validar proceso de descarga vía WhatsApp.
-
 - **Validación visual y funcional:**
   - Revisar que los botones de WhatsApp y carrito sean visibles y funcionales en todas las páginas.
   - Verificar que la tienda muestre productos en filas de 3 y las categorías sean accesibles.
-
 ---
 
 ## 📝 Recomendaciones
 
-- Realizar pruebas de compra y pago en el entorno real.
-- Validar la experiencia de usuario en móvil y escritorio.
-- Documentar cualquier ajuste adicional realizado.
+
+
+**Última revisión:** 15 de agosto de 2025
+
+
+# ⚠️ Solución: Botón 'Añadir al carrito' no aparece en la tienda
 
 ---
 
-**Última revisión:** 15 de agosto de 2025
+## 🏷️ Pasos para crear y validar el cupón EPIIS123 en WooCommerce
+
+1. **Accede al panel de administración de WordPress**
+   - Ingresa a http://localhost/chifaCamila/wp-admin y accede con tu usuario.
+
+2. **Ve a la sección de cupones**
+   - Menú lateral: Marketing > Cupones
+   - (En algunas versiones: WooCommerce > Cupones)
+
+3. **Crear un nuevo cupón**
+   - Haz clic en “Añadir cupón”.
+   - En el campo Código del cupón, escribe: EPIIS123.
+   - En Descripción, puedes poner: “Cupón de descuento académico”.
+
+4. **Configura el descuento**
+   - En Tipo de descuento, selecciona:
+     - “Descuento fijo en el carrito” o “Porcentaje de descuento” (elige 10% si es porcentaje).
+   - Ingresa el valor: 10 (si es porcentaje).
+   - Configura restricciones si lo deseas (mínimo de compra, productos específicos, fechas, etc.).
+
+5. **Publica el cupón**
+   - Haz clic en “Publicar” para guardar el cupón.
+
+6. **Prueba el cupón**
+   - Ve a la tienda, añade productos al carrito.
+   - En el carrito, ingresa el código EPIIS123 en el campo de cupones y aplica.
+   - Verifica que se aplique el descuento correctamente.
+Si en la página de tienda solo aparece el botón “Read more” y no puedes agregar productos al carrito, sigue estos pasos:
+
+1. **Verifica la configuración de cada producto:**
+   - Ve a **Productos > Todos los productos**
+   - Edita cada producto y asegúrate de que:
+     - Está marcado como “En stock”
+     - Tiene precio asignado
+     - El tipo de producto es “Simple” o “Variable”
+     - El estado es “Publicado”
+
+2. **Revisa el modo catálogo de WooCommerce:**
+   - Ve a **WooCommerce > Ajustes > Productos**
+   - Asegúrate de que no está activado el “Modo catálogo” ni plugins que oculten el botón de añadir al carrito
+
+   - Ve a **Apariencia > Personalizar > WooCommerce > Catálogo de productos**
+   - Activa la opción “Mostrar botón de añadir al carrito”
+   - Desactiva plugins de catálogo si están activos
+
+4. **Productos variables o agrupados:**
+   - Asegúrate de que todas las variaciones tengan precio y estén en stock
+
+5. **Permitir añadir varios productos al carrito:**
+   - Todos los productos deben estar “En stock” y tener precio
+   - El botón “Añadir al carrito” debe aparecer en la tienda y en la página de cada producto
+   - Para compras múltiples, puedes instalar un plugin de “Quick Shop” o “WooCommerce Product Table”
 
 ---
 
@@ -197,3 +239,24 @@ Este documento detalla el estado de cada requerimiento solicitado para la plataf
 - Verifica que ambos métodos aparezcan en el checkout
 - Realiza pruebas reales de pago
 - Documenta cualquier ajuste adicional realizado
+
+---
+
+**Pasos para verificar productos variables o agrupados:**
+
+1. Ve a **Productos > Todos los productos** en el panel de WordPress.
+2. Busca los productos que sean de tipo **Variable** o **Agrupado** y haz clic en **Editar**.
+3. En la pantalla de edición, ve a la sección **Datos del producto** y selecciona **Variable** o **Agrupado** según corresponda.
+4. Para productos variables:
+   - Ve a la pestaña **Variaciones**.
+   - Revisa cada variación:
+     - Asegúrate de que cada una tenga un **precio** asignado.
+     - Marca la casilla “En stock” para cada variación.
+     - Si alguna variación no tiene precio o está marcada como “Agotado”, el botón de añadir al carrito no aparecerá correctamente.
+   - Haz clic en **Guardar cambios** en la sección de variaciones.
+5. Para productos agrupados:
+   - Verifica que todos los productos agrupados estén “En stock” y tengan precio.
+6. Ve a la tienda y comprueba que puedes añadir las variaciones al carrito desde la página del producto.
+
+**Recomendación:**
+- Realiza una compra de prueba con cada variación para asegurarte que el proceso funciona correctamente.
