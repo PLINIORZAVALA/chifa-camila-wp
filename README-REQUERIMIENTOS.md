@@ -148,3 +148,38 @@ Este documento detalla el estado de cada requerimiento solicitado para la plataf
 ### 3. Guardar y comprobar en el sitio
 1. Haz clic en **“Guardar menú”**
 2. Ve al sitio web y verifica que el menú principal muestre todas las opciones requeridas y que los enlaces funcionen correctamente
+
+---
+
+## 💳 Pasos para instalar y configurar Mercado Pago y Yape en WooCommerce
+
+### 1. Instalar el plugin de Mercado Pago
+1. Ingresa al panel de administración: `http://localhost/chifaCamila/wp-admin`
+2. Ve a **Plugins > Añadir nuevo**
+3. Busca: `Mercado Pago for WooCommerce`
+4. Haz clic en **Instalar** y luego en **Activar**
+
+### 2. Configurar Mercado Pago
+1. Ve a **WooCommerce > Ajustes > Pagos**
+2. Busca "Mercado Pago" en la lista de métodos de pago
+3. Haz clic en **Configurar**
+4. Ingresa tus credenciales de Mercado Pago (Client ID y Client Secret)
+   - Puedes obtenerlas en tu cuenta de Mercado Pago > Credenciales
+5. Activa el método de pago y guarda los cambios
+6. Realiza una compra de prueba para verificar que funciona
+
+### 3. Instalar y configurar Yape (método personalizado)
+1. Ve a **Plugins > Añadir nuevo**
+2. Busca: `WooCommerce Custom Payment Gateway` o similar
+3. Instala y activa el plugin
+4. Ve a **WooCommerce > Ajustes > Pagos**
+5. Haz clic en **Añadir método de pago** y selecciona "Custom Gateway" o "Transferencia bancaria"
+6. Nombra el método como "Yape"
+7. En las instrucciones, coloca el número de celular Yape y los pasos para el pago
+8. Activa el método y guarda los cambios
+9. Realiza una compra de prueba para verificar que aparece y funciona
+
+### 4. Recomendaciones finales
+- Verifica que ambos métodos aparezcan en el checkout
+- Realiza pruebas reales de pago
+- Documenta cualquier ajuste adicional realizado
