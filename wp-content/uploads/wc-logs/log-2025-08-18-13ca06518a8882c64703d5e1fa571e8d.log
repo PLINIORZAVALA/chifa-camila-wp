@@ -2,3 +2,6 @@
 2025-08-18T00:16:51+00:00 INFO Payment gateway enabled: "Mercado Pago - Checkout API Yape"
 2025-08-18T00:16:57+00:00 INFO Payment gateway enabled: "Mercado Pago - Checkout Pro"
 2025-08-18T00:17:04+00:00 INFO Payment gateway enabled: "Mercado Pago - Checkout API Efectivo"
+2025-08-18T01:46:05+00:00 INFO Payment gateway enabled: "Direct bank transfer"
+2025-08-18T03:04:55+00:00 INFO Payment gateway enabled: "Cash on delivery"
+2025-08-18T03:05:41+00:00 INFO Payment gateway enabled: "Check payments"
