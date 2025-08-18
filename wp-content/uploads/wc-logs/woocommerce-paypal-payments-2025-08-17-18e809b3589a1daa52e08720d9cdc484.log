@@ -1,0 +1,12 @@
+2025-08-17T23:18:35+00:00 DEBUG #4042 - [New Request] GET /chifacamila/wp-admin/plugins.php
+2025-08-17T23:18:35+00:00 DEBUG #4042 - GET https://api.woocommerce.com/integrations/ppc/v1/notifications/webhooks
+Response: Array
+(
+    [code] => 404
+    [message] => Not Found
+)
+
+Response Body: {"statusCode":404,"error":"Not Found","message":"Not Found"}
+
+2025-08-17T23:18:35+00:00 ERROR #4042 - Failed to delete webhooks: [Error] Not Found
+2025-08-17T23:18:35+00:00 INFO #4042 - Webhooks deleted.

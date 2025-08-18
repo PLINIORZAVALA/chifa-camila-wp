@@ -58,10 +58,7 @@ Este documento detalla el estado de cada requerimiento solicitado para la plataf
 
 - **Creación y prueba de cupones:**
   - Crear producto PDF, simular compra y validar proceso de descarga vía WhatsApp.
-- **Validación visual y funcional:**
-  - Revisar que los botones de WhatsApp y carrito sean visibles y funcionales en todas las páginas.
-  - Verificar que la tienda muestre productos en filas de 3 y las categorías sean accesibles.
----
+![1755323903967](image/README-REQUERIMIENTOS/1755323903967.png)
 
 ## 📝 Recomendaciones
 
